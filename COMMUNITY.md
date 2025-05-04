@@ -21,3 +21,4 @@ Thank you for your interest in Helwan Linux — an Arch-based distribution for d
 ---
 
 ✉️ **Want your video featured here? Or want to collaborate? Contact us!**
+E-mail : helwanlinux@gmail.com
