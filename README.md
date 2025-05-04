@@ -129,3 +129,7 @@ alias search-local="sudo pacman -Qs"      # Search installed packages
 alias pkg-info="sudo pacman -Qi"          # Show package details
 alias local-install="sudo pacman -U"      # Install local .pkg.tar.zst
 alias helwan="uname -a"                   # Display system info
+
+## License
+
+This project is licensed under the **GNU General Public License v3**. See the [LICENSE](LICENSE) file for more details.
