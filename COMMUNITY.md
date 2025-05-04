@@ -5,7 +5,7 @@ Thank you for your interest in Helwan Linux — an Arch-based distribution for d
 ### 📹 Community Videos
 
 - 🇫🇷 [French Video on PeerTube](https://peertube.pcservice46.fr/w/t4w7FgJXbX94CFoxRpDNcF?start=0s) — Introduction and review of Helwan Linux.
-- 🇪🇸 [Spanish Video on YouTube](https://www.youtube.com/watch?v=gC157gQ4XaY) — Walkthrough and installation guide.
+- 🇪🇸 [Spanish Video on YouTube](https://www.youtube.com/watch?v=gC157gQ4XaY) — Walkthrough guide.
 
 ### 📰 Articles & Media
 
