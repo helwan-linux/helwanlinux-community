@@ -8,7 +8,8 @@
   Arch-Linux based distro built with <code>archiso for programmers and YouTubers</code>.
 </p>
 
-DONATE : https://ko-fi.com/Manage/
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/helwanlinux)
+
 ## Welcome to Helwan O.S
 
 Helwan Linux Al-Amal - Cinnamon Edition  
