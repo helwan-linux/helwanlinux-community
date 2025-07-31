@@ -26,6 +26,8 @@ Gladilov.org.ru (Russian): https://gladilov.org.ru/blog/all/new-virtual-os-29-04
 
 LaserOffice Blog (Italian): https://www.laseroffice.it/blog/2025/05/19/helwan-os-la-distribuzione-gnu-linux-multiuso-egiziana/
 
+ENDEAVOUROS : https://forum.endeavouros.com/t/share-your-desktop-2025/69504/252
+
 Linux-OS.net (Spanish): https://linux-os.net/top-nuevas-distros-linux-bsd-a-ser-reconocidas-en-2025-parte-05/
 
 foosforce : https://fossforce.com/2025/05/helwan-o-s-egypts-all-purpose-distro/
