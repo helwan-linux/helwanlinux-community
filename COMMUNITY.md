@@ -41,8 +41,10 @@ Helwan Linux has been featured and reviewed by several international platforms, 
 
 ## 🌐 Official Links
 
-- 🖥️ [Website]([[https://helwan-linux.mystrikingly.com/](https://helwan-linux.github.io/helwanlinux/index.html)](https://helwan-linux.github.io/helwanlinux/index.html))  
-- 🗨️ [Forum (Looking for supervisors!)](https://helwanlinux.createaforum.com/index.php)  
+- 🖥️ [Website](https://helwan-linux.github.io/helwanlinux/index.html)
+ 
+- 🗨️ [Forum (Looking for supervisors!)](https://helwanlinux.createaforum.com/index.php)
+  
 - 📘 [Facebook Page](https://www.facebook.com/profile.php?id=61571106461288)
 
 ---
