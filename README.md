@@ -12,7 +12,7 @@
 
 ## Welcome to Helwan O.S
 
-Helwan Linux Al-Amal - Cinnamon Edition  
+Helwan Linux - Cinnamon Edition  
 Built on top of Arch Linux using archiso and Calamares  
 Designed by developers, for developers and creators
 
@@ -86,11 +86,11 @@ Your Swiss army knife of system control:
 
 - **Timeshift** – System restore like Time Machine  
 - **GParted** – Partition management made easy  
-- **UFW + GUFW** – Firewall management CLI + GUI  
+- **UFW + helUFW** – Firewall management CLI + GUI  
 - **MTools** – Access MS-DOS disks  
 - **HTop** – Interactive system monitor  
 - **YAY** – AUR helper for installing community packages  
-- **Pamac** – GUI package manager
+- **helstore** – GUI package manager
 
 ✨ And much more...
 
