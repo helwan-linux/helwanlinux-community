@@ -49,5 +49,6 @@ Helwan Linux has been featured and reviewed by several international platforms, 
 
 ---
 
-✉️ **Want your video featured here? Or want to collaborate? Contact us!**  
-📧 **E-mail**: helwanlinux@gmail.com
+✉️ **Want your video featured here? Or want to collaborate? Contact us!** 
+
+📧 **E-mail**: [helwanlinux@gmail.com](mailto:helwanlinux@gmail.com)
