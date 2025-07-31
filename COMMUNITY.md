@@ -28,6 +28,8 @@ LaserOffice Blog (Italian): https://www.laseroffice.it/blog/2025/05/19/helwan-os
 
 Linux-OS.net (Spanish): https://linux-os.net/top-nuevas-distros-linux-bsd-a-ser-reconocidas-en-2025-parte-05/
 
+foosforce : https://fossforce.com/2025/05/helwan-o-s-egypts-all-purpose-distro/
+
 Official GitHub Pages: https://helwan-linux.github.io/helwan-linux/
 
 Distrowatch Weekly (Waiting List): https://distrowatch.com/weekly.php?issue=20250428#waiting
